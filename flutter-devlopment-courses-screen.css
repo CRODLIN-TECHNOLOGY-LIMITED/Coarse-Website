@@ -1,0 +1,1220 @@
+.flutter-devlopment-courses-scr-child {
+  width: 1512px;
+  height: 2623px;
+  position: absolute;
+  margin: 0 !important;
+  right: -8px;
+  bottom: -465px;
+  background-color: var(--backround-color);
+}
+.logo-background-icon {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.crodlin2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  min-width: 85px;
+}
+.logo-background-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs) 0 0;
+  gap: var(--gap-6xs);
+}
+.home7 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 58px;
+}
+.underline4 {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  border-radius: var(--br-12xs);
+  background-color: var(--main-color);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.home6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.courses1 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 75px;
+}
+.underline5 {
+  width: 58px;
+  height: 3px;
+  position: relative;
+  border-radius: var(--br-12xs);
+  background-color: var(--main-color);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.home8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.arrow-down-icon2 {
+  height: 13px;
+  width: 13px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.contact-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.contact-us3 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 105px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.underline6 {
+  width: 58px;
+  height: 3px;
+  position: relative;
+  border-radius: var(--br-12xs);
+  background-color: var(--main-color);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.home9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.arrow-down-icon3 {
+  height: 13px;
+  width: 13px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.contact-us2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: var(--gap-3xs);
+}
+.about3 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  min-width: 58px;
+}
+.underline7 {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  border-radius: var(--br-12xs);
+  background-color: var(--main-color);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.home10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.about2,
+.nav-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about2 {
+  padding: 0 var(--padding-12xs) 0 0;
+}
+.nav-links {
+  margin: 0;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--black);
+  font-family: var(--font-raleway);
+}
+.login1 {
+  text-decoration: none;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 71px;
+}
+.login-container {
+  border-radius: var(--br-8xs);
+  background-color: var(--main-color);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-sm);
+  white-space: nowrap;
+  cursor: pointer;
+}
+.header-left,
+.header1,
+.navigation {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.navigation {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  font-size: var(--text-size);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.header-left,
+.header1 {
+  box-sizing: border-box;
+}
+.header-left {
+  width: 1362px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-131xl);
+  gap: var(--gap-xl);
+}
+.header1 {
+  margin-left: -4px;
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-7xl) 0;
+  z-index: 3;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--secondry-color);
+  font-family: var(--font-rakkas);
+}
+.wrapper-group-115-child {
+  align-self: stretch;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 34px;
+  width: 100%;
+  transform: scale(1.112);
+}
+.frame-child27,
+.wrapper-group-115 {
+  height: 675px;
+  position: relative;
+  max-width: 100%;
+}
+.wrapper-group-115 {
+  margin-left: -4px;
+  margin-bottom: 42px;
+  align-self: stretch;
+  flex-shrink: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-child27 {
+  width: 1512px;
+  background: linear-gradient(177.65deg, rgba(102, 102, 102, 0), #0e1f51);
+  display: none;
+}
+.flutter-development1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 80px;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 3;
+}
+.rectangle-parent12 {
+  width: 1512px;
+  margin: 0 !important;
+  position: absolute;
+  top: 92px;
+  right: -8px;
+  background: linear-gradient(177.65deg, rgba(102, 102, 102, 0), #0e1f51);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 107px var(--padding-xl);
+  box-sizing: border-box;
+  min-height: 675px;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.syllabus {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.module-status-icons {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.module-progress-bars {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.module-status-icons-parent {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.introduction-to-flutter {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 290px;
+  max-width: 100%;
+}
+.module-row-two {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.module-status-rows-child {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.complated {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 100px;
+}
+.module-status-rows {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--color-dimgray-100);
+}
+.module-row-one,
+.module-rows {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.module-row-one {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.module-rows {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child28 {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.frame-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.ellipse-parent1 {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.dart-programming-basics {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 333px;
+  max-width: 100%;
+}
+.frame-parent14 {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.group-icon {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.complated1 {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 100px;
+}
+.frame-parent15 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--color-dimgray-100);
+}
+.frame-parent13,
+.module-rows1 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-parent13 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.module-rows1 {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child30 {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.frame-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.ellipse-parent2 {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.building-user-interfaces {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 315px;
+  max-width: 100%;
+}
+.frame-parent17 {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-child32 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.complated2 {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 100px;
+}
+.frame-parent18 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--color-dimgray-100);
+}
+.frame-parent16,
+.module-rows2 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-parent16 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.module-rows2 {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child33 {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.frame-child34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.ellipse-parent3 {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.state-management {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 252px;
+  max-width: 100%;
+}
+.frame-parent20 {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-child35 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.start-know {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 98px;
+}
+.frame-parent21 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--black);
+}
+.frame-parent19,
+.module-rows3 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-parent19 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.module-rows3 {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child36 {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.frame-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.ellipse-parent4 {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.integrating-apis {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 207px;
+  max-width: 100%;
+}
+.frame-parent23 {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-child38 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.start-know1 {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 98px;
+}
+.frame-parent24 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--black);
+}
+.frame-parent22,
+.module-rows4 {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.frame-parent22 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.module-rows4 {
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-child39 {
+  position: absolute;
+  top: 18px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-cornflowerblue);
+  width: 22px;
+  height: 22px;
+}
+.frame-child40 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray-500);
+  width: 1px;
+  height: 58px;
+}
+.ellipse-parent5 {
+  height: 58px;
+  width: 43px;
+  position: relative;
+}
+.advanced-flutter-features {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 37px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 351px;
+  max-width: 100%;
+}
+.frame-parent26 {
+  width: 789px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-child41 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.start-know2 {
+  position: relative;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 98px;
+}
+.frame-parent25,
+.frame-parent27 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent27 {
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-lgi);
+  color: var(--black);
+}
+.frame-parent25 {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.module-rows5,
+.syllabus-modules {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.module-rows5 {
+  background-color: var(--color-white);
+  align-items: flex-start;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.syllabus-modules {
+  align-items: center;
+  gap: var(--gap-mini);
+  font-size: var(--font-size-16xl);
+}
+.course-details,
+.syllabus-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.syllabus-parent {
+  width: 1210px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  z-index: 3;
+}
+.course-details {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 99px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--secondry-color);
+  font-family: var(--font-raleway);
+}
+.frame-child42 {
+  align-self: stretch;
+  height: 703px;
+  position: relative;
+  background-color: var(--main-backround-color);
+  display: none;
+}
+.description-highlight-icon,
+.frame-child43 {
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child43 {
+  align-self: stretch;
+  max-width: 100%;
+  max-height: 100%;
+  z-index: 1;
+}
+.description-highlight-icon {
+  height: 70px;
+  width: 70px;
+  z-index: 2;
+}
+.crodlin3 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 20px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.crodlin-wrapper,
+.description-highlight-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.crodlin-wrapper {
+  flex-direction: column;
+  padding: var(--padding-6xl) 0 0;
+}
+.description-highlight-parent {
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.at-crodlin-technology1,
+.join-us-to1 {
+  margin: 0;
+}
+.at-crodlin-technology-container2 {
+  align-self: stretch;
+  height: 541px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.05px;
+  line-height: 34px;
+  font-family: var(--font-roboto);
+  color: var(--black);
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-parent28 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  max-width: calc(100% - 620px);
+  flex-shrink: 0;
+}
+.adress1,
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  position: relative;
+}
+.adress1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lorem-ipsum-dolor1 {
+  line-height: 30px;
+}
+.icon-facebook1,
+.icon-instagram-square-icon1,
+.icon-social-linkedin1,
+.icon-twitter-square1,
+.icon-whatsapp1 {
+  height: 38px;
+  width: 38px;
+  position: relative;
+  min-height: 38px;
+}
+.icon-youtube1 {
+  height: 37px;
+  width: 40px;
+  position: relative;
+}
+.contact-details,
+.description-contact,
+.social-icons1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.social-icons1 {
+  flex-direction: row;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.contact-details,
+.description-contact {
+  flex-direction: column;
+}
+.contact-details {
+  align-self: stretch;
+  gap: var(--gap-28xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.description-contact {
+  flex: 1;
+  gap: var(--gap-sm);
+  max-width: calc(100% - 621px);
+  flex-shrink: 0;
+  z-index: 2;
+  font-size: var(--font-size-26xl);
+  color: var(--black);
+}
+.description-content,
+.description-paragraphs,
+.rectangle-parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.description-paragraphs {
+  height: 614px;
+  width: 1212px;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-335xl);
+  gap: var(--gap-10xl);
+}
+.description-content,
+.rectangle-parent13 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  flex-shrink: 0;
+}
+.rectangle-parent13 {
+  background-color: var(--main-backround-color);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-41xl);
+  gap: var(--gap-8xl-6);
+  z-index: 1;
+}
+.frame-child44 {
+  height: 75px;
+  width: 1512px;
+  position: relative;
+  background-color: var(--color-steelblue-100);
+  display: none;
+  max-width: 100%;
+}
+.copyright-2024-crodlin-all1 {
+  height: 20px;
+  width: 351px;
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent14 {
+  align-self: stretch;
+  background-color: var(--color-steelblue-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-9xl) var(--padding-xl) var(--padding-8xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--text-size);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--text);
+}
+.course-description,
+.flutter-devlopment-courses-scr {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.course-description {
+  align-self: stretch;
+  height: 643px;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--secondry-color);
+  font-family: var(--font-rakkas);
+}
+.flutter-devlopment-courses-scr {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1025px) {
+  .frame-parent13,
+  .frame-parent16,
+  .frame-parent19,
+  .frame-parent22,
+  .frame-parent25,
+  .module-row-one {
+    flex-wrap: wrap;
+  }
+  .description-paragraphs {
+    padding-bottom: var(--padding-211xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .header-left {
+    padding-left: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+  .flutter-development1,
+  .syllabus {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+  .syllabus {
+    line-height: 96px;
+  }
+  .advanced-flutter-features,
+  .building-user-interfaces,
+  .dart-programming-basics,
+  .integrating-apis,
+  .introduction-to-flutter,
+  .state-management {
+    font-size: var(--font-size-9xl);
+    line-height: 30px;
+  }
+  .course-details {
+    padding-bottom: 64px;
+    box-sizing: border-box;
+  }
+  .crodlin3 {
+    font-size: var(--font-size-21xl);
+    line-height: 16px;
+  }
+  .frame-parent28 {
+    display: none;
+  }
+  .adress1 {
+    font-size: var(--font-size-17xl);
+    line-height: 32px;
+  }
+  .description-contact {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 725px) {
+  .navigation {
+    gap: var(--gap-6xl);
+  }
+  .frame-parent14,
+  .frame-parent17,
+  .frame-parent20,
+  .frame-parent23,
+  .module-row-two {
+    flex-wrap: wrap;
+  }
+  .advanced-flutter-features {
+    min-width: 100%;
+  }
+  .frame-parent26 {
+    flex-wrap: wrap;
+  }
+  .contact-details {
+    gap: var(--gap-4xl);
+  }
+  .description-paragraphs,
+  .rectangle-parent13 {
+    padding-bottom: var(--padding-130xl);
+    box-sizing: border-box;
+  }
+  .rectangle-parent13 {
+    padding-bottom: var(--padding-20xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .header-left {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .flutter-development1 {
+    font-size: var(--font-size-5xl);
+    line-height: 32px;
+  }
+  .syllabus {
+    font-size: var(--font-size-11xl);
+    line-height: 72px;
+  }
+  .advanced-flutter-features,
+  .building-user-interfaces,
+  .dart-programming-basics,
+  .integrating-apis,
+  .introduction-to-flutter,
+  .state-management {
+    font-size: var(--font-size-2xl);
+    line-height: 22px;
+  }
+  .course-details {
+    padding-bottom: var(--padding-23xl);
+    box-sizing: border-box;
+  }
+  .crodlin3 {
+    font-size: var(--font-size-11xl);
+    line-height: 12px;
+  }
+  .at-crodlin-technology-container2 {
+    font-size: var(--font-size-lg);
+    line-height: 27px;
+  }
+  .adress1 {
+    font-size: var(--font-size-8xl);
+    line-height: 24px;
+  }
+  .lorem-ipsum-dolor1 {
+    font-size: var(--font-size-xl);
+    line-height: 24px;
+  }
+}
